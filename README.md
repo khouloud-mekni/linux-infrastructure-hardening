@@ -1,4 +1,4 @@
-# 🚀 LN-Labs: Linux Infrastructure Hardening, Routing & Automation
+# 🚀 Linux Infrastructure Hardening, Routing & Automation
 
 ## 📌 About the Project
 This hands-on project simulates the deployment, hardening, and automation of a web server within an enterprise production environment. Rather than relying on insecure default setups, the core focus is placed on **system hardening**, **strict least-privilege access control**, and **data resilience** against system failures.
